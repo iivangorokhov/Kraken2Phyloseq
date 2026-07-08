@@ -1,0 +1,8 @@
+# Example reports
+/kraken2/
+
+# Cache files
+./mypy_cache/
+
+# results
+./results/
